@@ -34,4 +34,4 @@ choose this in the browser
 
 Inspired by the post [Text Summarization with Amazon Reviews](https://medium.com/towards-data-science/text-summarization-with-amazon-reviews-41801c2210b), with a few improvements.
 
-I wrote an [article](https://www.dlology.com/blog/)  about this project that explains parts of it in detail.
+I wrote an [article](https://www.dlology.com/blog/tutorial-summarizing-text-with-amazon-reviews/)  about this project that explains parts of it in detail.
